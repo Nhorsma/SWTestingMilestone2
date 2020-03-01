@@ -7,7 +7,11 @@ public class WriteToDatabase {
     }
 
     //Method that adds to database
-    public Connection AddToDB() {
+    public Connection AddProjectToDB(String name, int id, String requirements) {
+        return null;
+    }
+    
+    public Connection AddCourseToDB(String name, int id, String prerequisites) {
         return null;
     }
 
