@@ -11,8 +11,8 @@ public class WriteToDatabase {
         return null;
     }
 
-    //Method that removes from database
-    public Connection RemoveFromDB() {
+    //Method that removes from database based on id
+    public Connection RemoveFromDB(String id) {
         return null;
     }
 }
