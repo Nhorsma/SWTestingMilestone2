@@ -6,8 +6,8 @@ public class SearchDatabase {
     public SearchDatabase(File file) {
     }
 
-    //Method for searching through the database
-    public Connection SearchThroughFile() {
+    //Method for searching through the database by name or ID
+    public Connection SearchThroughFile(String searchterm) {
         return null;
     }
 }
